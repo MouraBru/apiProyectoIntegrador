@@ -3,26 +3,31 @@
     {
       "id": 1,
       "name": "Torta de Chocolate",
+      "price": 170.50,
       "description": "Un delicioso torta de chocolate con cobertura."
     },
     {
       "id": 2,
       "name": "Tarta de frutilla",
+      price": 165.30,
       "description": "Tarta con base de galleta, rellena de crema pastelera y frutillas frescas."
     },
     {
       "id": 3,
       "name": "Croissant",
+      price": 60.20,
       "description": "Crujiente y esponjoso croissant recién horneado."
     },
     {
       "id": 4,
       "name": "Muffin de Arándanos",
+      price": 100.99,
       "description": "Muffin suave y esponjoso con arándanos frescos."
     },
     {
       "id": 5,
       "name": "Cheesecake",
+      price": 99.50,
       "description": "Clásico cheesecake con base de galleta y cubierta de mermelada."
     }
   ]
