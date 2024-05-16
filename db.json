@@ -1,0 +1,29 @@
+{
+  "bakery": [
+    {
+      "id": 1,
+      "name": "Torta de Chocolate",
+      "description": "Un delicioso torta de chocolate con cobertura."
+    },
+    {
+      "id": 2,
+      "name": "Tarta de frutilla",
+      "description": "Tarta con base de galleta, rellena de crema pastelera y frutillas frescas."
+    },
+    {
+      "id": 3,
+      "name": "Croissant",
+      "description": "Crujiente y esponjoso croissant recién horneado."
+    },
+    {
+      "id": 4,
+      "name": "Muffin de Arándanos",
+      "description": "Muffin suave y esponjoso con arándanos frescos."
+    },
+    {
+      "id": 5,
+      "name": "Cheesecake",
+      "description": "Clásico cheesecake con base de galleta y cubierta de mermelada."
+    }
+  ]
+}
